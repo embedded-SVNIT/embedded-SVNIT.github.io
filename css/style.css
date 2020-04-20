@@ -779,6 +779,30 @@ p.counter {
     font-family: 'Covered By Your Grace', cursive;
 }
 
+
+.right-agile2 h5 {
+    font-size: 1.7em;
+    margin-left: 10px;
+    text-transform: uppercase;
+    margin-bottom: 0.2em;
+	font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    color: #fff;
+}
+.right-agile2 {
+    float: right;
+    width: 100%;
+    padding: 0.2em 0em;
+    background: #6a67ce;
+}
+.right-agile2 p {
+    padding-bottom: 2em;
+    font-size: 1.4em;
+    line-height: 1.9em;
+	color:#ecebeb;
+    font-family: 'Covered By Your Grace', cursive;
+}
+
 .buttons {
     text-align: center;
 }

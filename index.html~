@@ -7,7 +7,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Embedded System Laboratory, ECED, SVNIT Surat</title>
+<title>Educational An Education Category Bootstrap Responsive Website Template | Home :: w3layouts</title>
 <!-- Meta tag Keywords -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -32,8 +32,8 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 	<div class="top-search-bar">
 		<div class="header-top-nav">
 			<ul>
-				<!--<li><a href="#" data-toggle="modal" data-target="#myModal1"><i class="fa fa-envelope" aria-hidden="true"></i>NEWSLETTER</a></li>-->
-				<li><a href="#" data-toggle="modal" data-target="#myModal3"><i class="fa fa-key" aria-hidden="true"></i>LOGIN to INVENTORY</a></li>
+				<li><a href="#" data-toggle="modal" data-target="#myModal1"><i class="fa fa-envelope" aria-hidden="true"></i>NEWSLETTER</a></li>
+				<li><a href="#" data-toggle="modal" data-target="#myModal3"><i class="fa fa-key" aria-hidden="true"></i>LOGIN</a></li>
 				<li><a href="#" data-toggle="modal" data-target="#myModal4"><i class="fa fa-lock" aria-hidden="true"></i>REGISTER</a></li>
 			</ul>
 		</div>
@@ -135,12 +135,12 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 						<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 							<ul class="nav navbar-nav navbar-right">
 								<li><a href="index.html" class="hvr-underline-from-center active">Home</a></li>
-								<li><a href="index.html#about" class="hvr-underline-from-center scroll">About Lab</a></li>
-								<li><a href="index.html#services" class="hvr-underline-from-center scroll">Resources</a></li>
-								<li><a href="index.html#gallery" class="hvr-underline-from-center scroll">Gallery</a></li>
-								<li><a href="index.html#team" class="hvr-underline-from-center scroll">People</a></li>
-								<li><a href="index.html#events" class="hvr-underline-from-center scroll">Events</a></li>
-								<li><a href="index.html#contact" class="hvr-underline-from-center scroll">Contact Us</a></li>
+								<li><a href="#about" class="hvr-underline-from-center scroll">About Lab</a></li>
+								<li><a href="#services" class="hvr-underline-from-center scroll">Resources</a></li>
+								<li><a href="#gallery" class="hvr-underline-from-center scroll">Gallery</a></li>
+								<li><a href="#team" class="hvr-underline-from-center scroll">Our Team</a></li>
+								<li><a href="#events" class="hvr-underline-from-center scroll">Events</a></li>
+								<li><a href="#contact" class="hvr-underline-from-center scroll">Contact Us</a></li>
 							</ul>
 						</div>
 						<div class="clearfix"> </div>	
@@ -153,34 +153,39 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 			<div class="slider">
 				<div class="callbacks_container">
 					<ul class="rslides" id="slider">
-						<li>						
+						<li>
+						
 							<div class="slider-info">
-								<p>Internet of Things</p>
-								<h3><a href="index.html"><span>Embedded</span> System Lab</a></h3>
-								<h61>“If you think that the internet has changed your life, think again. The Internet of Things is about to change it all over again!” — Brendan O’Brien</h61>
+								<p>wisdom begins with wonder.</p>
+								<h3><a href="index.html"><span>Edu</span> cational</a></h3>
+								<h6>wisdom begins with wonder.</h6>
 							</div>
 						</li>
-						<li>						
+						<li>
+						
 							<div class="slider-info">
-								<p>High Performance Embedded Computing</p>
-								<h3><a href="index.html"><span>Embedded</span> System Lab </a> </h3>
-								<h61>Computation-intensive applications increased reliance on high-performance embedded computing (HPEC). </h61>
+								<p>Education is a vaccine for violence.</p>
+								<h3><a href="index.html"><span>Edu</span> cational</a></h3>
+								<h6>wisdom begins with wonder.</h6>
 							</div>
 						</li>
-						<li>						
+						<li>
+						
 							<div class="slider-info">
-								<p>Reconfigurable Computing</p>
-								<h3><a href="index.html"><span>Embedded</span> System Lab</a></h3>
-								<h61>Reconfigurable computing involves manipulation of the logic within the FPGA at run-time.</h61>
+								<p>wisdom begins with wonder.</p>
+								<h3><a href="index.html"><span>Edu</span> cational</a></h3>
+								<h6>wisdom begins with wonder.</h6>
 							</div>
 						</li>
-						<li>						
+						<li>
+						
 							<div class="slider-info">
-								<p>Energy Efficient Computing</p>
-								<h3><a href="index.html"><span>Embedded</span> System Lab</a></h3>
-								<h61>Coordinated changes in software and hardware could increase the energy efficiency of computing by a million times.</h61>
+								<p>Learning never exhausts the mind.</p>
+								<h3><a href="index.html"><span>Edu</span> cational</a></h3>
+								<h6>wisdom begins with wonder.</h6>
 							</div>
-						</li>							
+						</li>
+							
 					</ul>
 				</div>
 				<div class="clearfix"></div>
@@ -193,40 +198,40 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 <!--about-->
 <div id="about" class="about">
 	<div class="container">
-			<h1>About <span>Lab</span></h1>
-			<p>The Embedded Systems lab supports teaching and research in embedded systems and re-configurable hardware technology.We are engaged in research on architecture, design, and tools for networked and embedded computing and communication systems.Our current interests include wireless sensor and image processing.</p>
+			<h1>About <span>us</span></h1>
+			<h2>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod ut enim ad tempor incididunt ut labore et dolore magna aliqua.</h2>
 			<div class="specialty-grids-top">
 				<div class="col-md-4 service-box" style="visibility: visible; -webkit-animation-delay: 0.4s;">
 					<figure class="icon">
 						<span class="glyphicon glyphicon-education a1" aria-hidden="true"></span>
 					</figure>
-					<h5>Students</h5>
-					<!--<p>Sed ut perspiciis iste natus error sit voluptatem accusantium doloremque laudantium elerisque ipsum vehicula pharetra.</p>-->
+					<h5>Awesome Education</h5>
+					<p>Sed ut perspiciis iste natus error sit voluptatem accusantium doloremque laudantium elerisque ipsum vehicula pharetra.</p>
 				</div>
 				<div class="col-md-4 service-box wow bounceIn animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
 					<figure class="icon">
 						<span class="glyphicon glyphicon-home a2" aria-hidden="true"></span>
 					</figure>
-					<h5>Teaching</h5>
-					<!--<p>Sed ut perspiciis iste natus error sit voluptatem accusantium doloremque laudantium elerisque ipsum vehicula pharetra.</p>-->
+					<h5>Awesome classes</h5>
+					<p>Sed ut perspiciis iste natus error sit voluptatem accusantium doloremque laudantium elerisque ipsum vehicula pharetra.</p>
 				</div>
 				<div class="col-md-4 service-box wow bounceIn animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
 					<figure class="icon">
 						 <span class="glyphicon glyphicon-leaf a3" aria-hidden="true"></span>						
 					</figure>
-					<h5>Research and Development</h5>
-					<!--<p>Sed ut perspiciis iste natus error sit voluptatem accusantium doloremque laudantium elerisque ipsum vehicula pharetra.</p>-->
+					<h5>Awesome Teachings</h5>
+					<p>Sed ut perspiciis iste natus error sit voluptatem accusantium doloremque laudantium elerisque ipsum vehicula pharetra.</p>
 				</div>
 				<div class="clearfix"> </div>
 			</div>
-		<!--	<div class="buttons">
+			<div class="buttons">
 				<div class="button">
 					<h5><a href="#contact" class="scroll" id="Contact">Contact with us</a></h5>
 				</div>
 				<div class="button2">
 					<h5><a href="#" data-toggle="modal" data-target="#myModal2">Admission Now</a></h5>
 				</div>
-			</div> -->
+			</div>
 			<!-- Modal1 -->
 			<div class="modal fade" id="myModal2" tabindex="-1" role="dialog" >
 				<div class="modal-dialog" role="document">
@@ -285,10 +290,10 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 	<div class="about-info">
 		<img src="images/ab.jpg" alt="about-image">
 		<div class="right-agile">
-			<h5>Technical Development</h5>
-			 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua Ut enim ad minim veniam Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-			<h5>Research</h5>
-			 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua Ut enim ad minim veniam. </p>
+			<h5>Educational</h5>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua Ut enim ad minim veniam Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+			<h5>Educational</h5>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua Ut enim ad minim veniam. </p>
 		</div>
 	</div>
 	<div class="clearfix"></div>
@@ -296,66 +301,60 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 
 <!-- services -->
 <div class="services" id="services">
-		<h3>Resources</h3>
-        <div class="col-md-2 services-gd text-center" data-wow-delay=".5s">
+		<h3>Services</h3>
+		<div class="col-md-2 services-gd text-center" data-wow-delay=".5s">
 			<div class="hi-icon-wrap hi-icon-effect-9 hi-icon-effect-9a">
-				<a href="TechResource.html" class="hi-icon"><img src="images/Motherboard2.png" alt=" " /></a>
+				<a href="#" class="hi-icon"><img src="images/book.png" alt=" " /></a>
 			</div>
-            <h4>Technical Resources</h4>
-			<!--<h4><a href="Kits.html" > Technical Kits</a> </h4>-->
-			<p></p>
+			<h4>Service 1</h4>
+			<p>Lorem Ipsum</p>
+		</div>
+		<div class="col-md-2 services-gd text-center" data-wow-delay=".5s">
+			<div class="hi-icon-wrap hi-icon-effect-9 hi-icon-effect-9a">
+				<a href="#" class="hi-icon"><img src="images/edu.png" alt=" " /></a>
+			</div>
+			<h4>Service 2</h4>
+			<p>Lorem Ipsum</p>
+		</div>
+		<div class="col-md-2 services-gd text-center" data-wow-delay=".5s">
+			<div class="hi-icon-wrap hi-icon-effect-9 hi-icon-effect-9a">
+				<a href="#" class="hi-icon"><img src="images/uni.png" alt=" " /></a>
+			</div>
+			<h4>Service 3</h4>
+			<p>Lorem Ipsum</p>
+		</div>
+		<div class="col-md-2 services-gd text-center" data-wow-delay=".5s">
+			<div class="hi-icon-wrap hi-icon-effect-9 hi-icon-effect-9a">
+				<a href="#" class="hi-icon"><img src="images/hourglass.png" alt=" " /></a>
+			</div>
+			<h4>Service 4</h4>
+			<p>Lorem Ipsum</p>
 		</div>
 		<div class="col-md-2 services-gd text-center" data-wow-delay=".5s">
 			<div class="hi-icon-wrap hi-icon-effect-9 hi-icon-effect-9a">
 				<a href="#" class="hi-icon"><img src="images/book2.png" alt=" " /></a>
 			</div>
-			<h4>Lab Manuals</h4>
-			<p></p>
+			<h4>Service 5</h4>
+			<p>Lorem Ipsum</p>
 		</div>
-    
-		<div class="col-md-2 services-gd text-center" data-wow-delay=".5s">
-			<div class="hi-icon-wrap hi-icon-effect-9 hi-icon-effect-9a">
-				<a href="#" class="hi-icon"><img src="images/idea.png" alt=" " /></a>
-                <!--<div>Icons made by <a href="https://www.flaticon.com/authors/eucalyp" title="Eucalyp">Eucalyp</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>-->
-			</div>
-			<h4>Projects</h4>
-			<p></p>
-		</div>
-
-		<div class="col-md-2 services-gd text-center" data-wow-delay=".5s">
-			<div class="hi-icon-wrap hi-icon-effect-9 hi-icon-effect-9a">
-				<a href="#" class="hi-icon"><img src="images/publications-icon-tiny.png" alt=" " /></a>
-			</div>
-			<h4>Publications</h4>
-			<!--<p>Lorem Ipsum</p>-->
-		</div>
-
-    	<div class="col-md-2 services-gd text-center" data-wow-delay=".5s">
-			<div class="hi-icon-wrap hi-icon-effect-9 hi-icon-effect-9a">
-				<a href="#" class="hi-icon"><img src="images/book.png" alt=" " /></a>
-			</div>
-			<h4>Books</h4>
-			<p></p>
-		</div>
-
-
 		<div class="clearfix"> </div>
 </div>
 <!-- //services -->
 
 <!-- gallery -->
 <div class="portfolio" id="gallery">
-	<h3 class="title">Photo <span> Gallery </span></h3>
+	<h3>Gallery</h3>
 		
 		<div class="portfolio-top wow fadeInDown animated" data-wow-delay=".5s">
 		 
 			<div class="col-md-4 grid slideanim">
 				<figure class="effect-jazz">
 				<a href="#portfolioModal1"  data-toggle="modal">
-					<img src="images/FreescaleCup2010_3.jpg" alt="img25" class="img-responsive"/>
+
+					<img src="images/g1.jpg" alt="img25" class="img-responsive"/>
 						<figcaption>
-							<h4>Technical</h4>
-							<p> Freescale Cup 2010 winner(PARAM).</p>
+							<h4>Educational</h4>
+							<p> Education is not a problem. Education is an opportunity.</p>
 						</figcaption>
 					</a>						
 				</figure>
@@ -363,10 +362,11 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 			<div class="col-md-4 grid slideanim">
 				<figure class="effect-jazz">
 				<a href="#portfolioModal2"  data-toggle="modal">
-					<img src="images/winners-of-freescale-cu.jpg" alt="img25" class="img-responsive"/>
+
+					<img src="images/g2.jpg" alt="img25" class="img-responsive"/>
 						<figcaption>
-							<h4>Technical</h4>
-							<p> Freescale Cup 2011 winners.</p>			
+							<h4>Educational</h4>
+							<p> Education is not a problem. Education is an opportunity.</p>							
 						</figcaption>	
 						</a>						
 				</figure>
@@ -375,10 +375,10 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 				<figure class="effect-jazz">
 				<a href="#portfolioModal3"  data-toggle="modal">
 
-					<img src="images/Amdocs1.jpg" alt="img25" class="img-responsive"/>
+					<img src="images/g3.jpg" alt="img25" class="img-responsive"/>
 						<figcaption>
-							<h4>Technical</h4>
-							<p> Amdocs Innovationa Lab finalists</p>							
+							<h4>Educational</h4>
+							<p> Education is not a problem. Education is an opportunity.</p>							
 						</figcaption>
 					</a>						
 				</figure>
@@ -386,8 +386,7 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 			
 			<div class="clearfix"></div>
 		 </div>
-    
-		<!-- <div class="portfolio-top wow fadeInUp animated" data-wow-delay=".5s">
+		<div class="portfolio-top wow fadeInUp animated" data-wow-delay=".5s">
 			<div class="col-md-3 grid grid-wi slideanim">
 				<figure class="effect-jazz">
 				<a href="#portfolioModal4"  data-toggle="modal">
@@ -437,7 +436,7 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 				</figure>
 			</div>
 			<div class="clearfix"></div>
-		 </div> -->
+		 </div>
 	</div>
 <!-- Portfolio Modals -->
 <div class="portfolio-modal modal fade slideanim" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
@@ -451,17 +450,10 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 		
                 <div class="col-lg-8 col-lg-offset-2">
                     <div class="modal-body">
-                        <h3>Technical</h3>
+                        <h3>Educational</h3>
 						
-                        <img src="images/FreescaleCup2010_3.jpg" class="img-responsive" alt="">
-                        <p>Team "PARAM" of Sardar Vallabhai National Institute of Technology (SVNIT), Surat won the first ever 'Smart Car Race 2010' conducted by Freescale Semiconductor India in collaboration with the Center for Electronic Design and Technology (CEDT) and the Indian Institute of Science (IISc) .
-
-                        In all, 90 teams from 22 renowned colleges and about 290 engineering students participated in the two-day event. During the competition, students assembled an intelligent model racing car that automatically recognized the specially designed racing track at the final competition venue. </p>
-                        <p>
-                        Team Members were from Electronics Department, final Year. (1) Maulik Gandhi (2) Rikil Shah (3) Samir Sirohi </p>
-                        <p>
-                        Mentored by Prof. Pinalkumar Engineer
-                        </p>
+                        <img src="images/g1.jpg" class="img-responsive" alt="">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
                     </div>
                 </div>
            
@@ -479,19 +471,10 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
          
                 <div class="col-lg-8 col-lg-offset-2">
                     <div class="modal-body">
-                        <h3>Technical</h3>
-                     
-                        <img src="images/winners-of-freescale-cu.jpg" class="img-responsive" alt="">
-                        <p>  
-                            Team Hors-Bords and Team Vishva*from Sardar Vallabhbhai National Institute of Technology, Surat emerged winners in the Freescale Cup India (2011), a unique intelligent car race for engineering students. The winning team included Amit Tank, Atul Jariwala, Vivek Kholia completed the race in 25.68 second. The event is part of Freescale s global initiative to promote innovation among engineering students and offer them a hands-on opportunity to put their engineering skills to test by creating micro controller (MCU) programming that enables model cars to perform optimally under test conditions during the race. The Freescale Cup India, led by Freescale Semiconductor India, in collaboration with the Center for Electronic Design and Technology (CEDT) from the Indian Institute of Science (IISc), entered its second year with participation from 35 colleges and 127 teams. The 33 finalists battled it out in the J N Tata Auditorium at the Indian Institute of Science.
-                        </p>
-                        <p> Team Hors-bords* - 1st place (All from Final year,EC)
-                            (1) Amit Tank (2) Vivek Kholiya (3) Atit Jariwala (4) Suraj Das </p>
-                        <p> Team Vishva* - 3rd place (All from 3rd year, EC)
-                            (1) Vivek Gandhi (2) Vishal Jain (3) Varun Chhidrewar (4) Parag Jain</p>
-                         <p>
-                            Mentored by Prof. Pinalkumar Engineer
-                        </p>
+                        <h3>Educational</h3>
+                      
+                        <img src="images/g2.jpg" class="img-responsive" alt="">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
                     </div>
                 </div>
            
@@ -509,10 +492,10 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
            
                 <div class="col-lg-8 col-lg-offset-2">
                     <div class="modal-body">
-                        <h3>TECHNICAL</h3>
+                        <h3>Educational</h3>
                      
-                        <img src="images/Amdocs_Final.jpg" class="img-responsive" alt="">
-						<p>Amdocs Innovation Lab - Top 5 finalists</p>
+                        <img src="images/g3.jpg" class="img-responsive" alt="">
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
                     </div>
                 </div>
             </div>
@@ -609,50 +592,49 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 <!-- team -->
 <div class="team" id="team">
 	<div class="container">
-		<h3 class="title">Our  <span>People</span></h3>
+		<h3 class="title">Our  <span>Team</span></h3>
 		<div class="team_gds">
 			<div class="col-md-3 team_gd1 wow zoomIn" data-wow-duration="1.5s" data-wow-delay="0.1s">
 				<div class="team_pos">
 					<div class="team_back"></div>
-					<img class="img-responsive" src="images/PJEngineer.png"  alt=" ">
+					<img class="img-responsive" src="images/t1.jpg"  alt=" ">
 					<div class="team_info">
-						<a href="https://www.facebook.com/pjengineer" target="_blank" class="face_one"><i class=" so1 fa fa-facebook fc1" aria-hidden="true"></i></a>
-						<a href="https://twitter.com/engineerpj" target="_blank"  class="face_one"><i class=" so2 fa fa-twitter fc2" aria-hidden="true"> </i></a>
-						<a href="https://scholar.google.com/citations?user=PTcdAoYAAAAJ&hl=en&oi=ao" target="_blank" class="face_one"><i class=" so3 fa fa-google fc3" aria-hidden="true"></i></a>
+						<a href="#"  class="face_one"><i class=" so1 fa fa-facebook fc1" aria-hidden="true"></i></a>
+						<a href="#"  class="face_one"><i class=" so2 fa fa-twitter fc2" aria-hidden="true"></i></a>
+						<a href="#"  class="face_one"><i class=" so3 fa fa-google fc3" aria-hidden="true"></i></a>
 					</div>
 				</div>
-				<h4> <a href="http://www.svnit.ac.in/Data/facup/pjengineer/index.html" target="_blank"> P. J. Engineer</a></h4>
-                <p>Assistant Professor</p>
-                <p>Lab In-charge</p>		
+				<h4>Victoria</h4>
+				<p>Lorem Ipsum</p>
 			</div>
 		
 			<div class="col-md-3 team_gd1 wow zoomIn" data-wow-duration="1.5s" data-wow-delay="0.1s">
 				<div class="team_pos">
 					<div class="team_back"></div>
-					<img class="img-responsive" src="images/ADDarji.jpg"  alt=" ">
+					<img class="img-responsive" src="images/t2.jpg"  alt=" ">
 					<div class="team_info">
 						<a href="#"  class="face_one"><i class=" so1 fa fa-facebook fc1" aria-hidden="true"></i></a>
 						<a href="#"  class="face_one"><i class=" so2 fa fa-twitter fc2" aria-hidden="true"></i></a>
 						<a href="#"  class="face_one"><i class=" so3 fa fa-google fc3" aria-hidden="true"></i></a>
 					</div>
 				</div>
-				<h4> <a href="http://www.svnit.ac.in/facup/4023add.pdf" target="_blank">Anand Darji</a></h4>
-				<p>Associate Professor</p>
+				<h4>Patrick</h4>
+				<p>Lorem Ipsum</p>
 			</div>
 			<div class="col-md-3 team_gd1 wow zoomIn" data-wow-duration="1.5s" data-wow-delay="0.1s">
 				<div class="team_pos">
 					<div class="team_back"></div>
-					<img class="img-responsive" src="images/ZMPatel.jpg"  alt=" ">
+					<img class="img-responsive" src="images/t3.jpg"  alt=" ">
 					<div class="team_info">
 						<a href="#"  class="face_one"><i class=" so1 fa fa-facebook fc1" aria-hidden="true"></i></a>
 						<a href="#"  class="face_one"><i class=" so2 fa fa-twitter fc2" aria-hidden="true"></i></a>
 						<a href="#"  class="face_one"><i class=" so3 fa fa-google fc3" aria-hidden="true"></i></a>
 					</div>
 				</div>
-                <h4><a href="http://www.svnit.ac.in/Faculty_form/showpage.php?empcode=1230" target="_blank">Z. M. Patel</a></h4>
-				<p>Associate Professor</p>
+				<h4>Thompson</h4>
+				<p>Lorem Ipsum</p>
 			</div>
-			<!-- <div class="col-md-3 team_gd1 wow zoomIn" data-wow-duration="1.5s" data-wow-delay="0.1s">
+			<div class="col-md-3 team_gd1 wow zoomIn" data-wow-duration="1.5s" data-wow-delay="0.1s">
 				<div class="team_pos">
 					<div class="team_back"></div>
 					<img class="img-responsive" src="images/t4.jpg"  alt=" ">
@@ -664,9 +646,9 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 				</div>
 				<h4>Federica</h4>
 				<p>Lorem Ipsum</p>
-			</div> -->
+			</div>
 			<div class="clearfix"></div>		
-		</div> 
+		</div>
 	</div>
 </div>
 <!-- //team -->
@@ -677,23 +659,23 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 		<h3>Events</h3>
 		<div class="col-md-4 eve-agile e1">
 			<div class="eve-sub1">
-				<a href="#" data-toggle="modal" data-target="#myModal5"><img src="images/SummerIntern.jpg" alt="image"></a>
-			<h4><a href="#" data-toggle="modal" data-target="#myModal5">Summer Internships</a></h4>
-				<h6> <a href="#"> </a> June-July 2020</h6>
-				<p>An internship is a period of work experience offered by an organisation for a limited period of time.</p>
+				<a href="#" data-toggle="modal" data-target="#myModal5"><img src="images/e2.jpg" alt="image"></a>
+			<h4><a href="#" data-toggle="modal" data-target="#myModal5">Educational</a></h4>
+				<h6>By an <a href="#">admin</a>, Oct-2016</h6>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation</p>
 			</div>
 			<div class="eve-sub2">
-				<!--<div class="eve-w3lleft">
+				<div class="eve-w3lleft">
 					<h6><i class="fa fa-comment-o" aria-hidden="true"></i>17</h6>
 					<h6><i class="fa fa-heart-o" aria-hidden="true"></i>78</h6>
-				</div>	-->
+				</div>	
 				<div class="eve-w3lright e1">
 					<a href="#" data-toggle="modal" data-target="#myModal5"><h5>More</h5></a>
 				</div>
 				<div class="clearfix"></div>	
 			</div>
 		</div>
-		<!--  <div class="col-md-4 eve-agile e2">
+		<div class="col-md-4 eve-agile e2">
 			<div class="eve-sub1">
 				<a href="#" data-toggle="modal" data-target="#myModal6"><img src="images/e1.jpg" alt="image"></a>
 				<h4><a href="#" data-toggle="modal" data-target="#myModal6">Educational</a></h4>
@@ -727,7 +709,7 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 					<a href="#" data-toggle="modal" data-target="#myModal7"><h5>More</h5></a>
 				</div>
 				<div class="clearfix"></div>	
-			</div> -->
+			</div>
 		</div>
 	</div>
 </div>
@@ -738,9 +720,9 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 								<div class="modal-content">
 									<div class="modal-header">
 										<button type="button" class="close" data-dismiss="modal">&times;</button>
-											<h4>Summer Internships - 2020 </h4>
-											<img src="images/SummerIntern.jpg" alt="blog-image" />
-											<span>Summer internships are not only a great addition to the CV, but they allow you to gain hands-on experience and let you get your feet wet in a field you might be considering to pursue after the completion of your academic endeavours. Internships are a proven way to earn valuable knowledge and acquire the feel of working in an actual office, which most certainly cannot be taught in a classroom. Employers in status quo rely heavily on a good resume that displays a relevant work history. Partaking in an internship allows you to establish a series of networks and connections in your desired field of work that might prove to be extremely beneficial for you in the future. Despite these benefits, doing summer internships can and does also lead to personal growth and development in terms of pushing yourself in an official and professional environment, chasing deadlines, and managing your time effectively.</span>
+											<h4>Educational</h4>
+											<img src="images/e2.jpg" alt="blog-image" />
+											<span>Lorem ipsum dolor sit amet, Sed ut perspiciatis unde omnis iste natus error sit voluptatem , eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.accusantium doloremque laudantium.</span>
 									</div>
 								</div>
 						
@@ -794,27 +776,27 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 					                	<div class="test-review">
 										<p><img src="images/left-quote.png" alt="">Lorem ipsum dolor sit ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<img src="images/right-quote.png" alt=""></p>
 											<div class="img-agile">
-												<img src="images/PJEngineer.png" class="img-responsive" alt=""/>
+												<img src="images/t1.jpg" class="img-responsive" alt=""/>
 											</div>
-											  <h5>Pinalkumar Engineer </h5>
+											  <h5>James</h5>
 					                	    </div>
 					                </div>
 					                 <div class="item-owl">
 					                	<div class="test-review">
 										 <p> <img src="images/left-quote.png" alt="">Lorem ipsum dolor sit ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<img src="images/right-quote.png" alt=""></p>
 						                	<div class="img-agile">
-											<img src="images/ADDarji.jpg" class="img-responsive" alt=""/>
+											<img src="images/t2.jpg" class="img-responsive" alt=""/>
 											</div>
-											<h5>Anand Darji</h5>
+											<h5>Williams Allen</h5>
 					                	</div>
 					                </div>
 					                 <div class="item-owl">
 					                	<div class="test-review">
 										     <p><img src="images/left-quote.png" alt="">Lorem ipsum dolor sit ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<img src="images/right-quote.png" alt=""></p>
 						                	<div class="img-agile">
-											<img src="images/ZMPatel.jpg" class="img-responsive" alt=""/>
+											<img src="images/t3.jpg" class="img-responsive" alt=""/>
 											</div>
-											<h5>Z M Patel</h5>
+											<h5>Richard</h5>
 					                	</div>
 					                </div>
 				              </div>
@@ -828,7 +810,7 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 <!--contact-->
 	<div class="map">
 		<h4>Find us On google Map</h4>
-		<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d930.1777546780911!2d72.7834393!3d21.1638957!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be04decf609220d%3A0x397f9a7ecd5b9697!2sElectronics%20Engineering%20Department!5e0!3m2!1sen!2sin!4v1586883096694!5m2!1sen!2sin" style="border:0" allowfullscreen></iframe>
+		<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5662244.714693903!2d-2.279153484594319!3d46.13545249359953!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd54a02933785731%3A0x6bfd3f96c747d9f7!2sFrance!5e0!3m2!1sen!2sin!4v1471606088687" style="border:0" allowfullscreen></iframe>
 	</div>
 	<div class="contact-agile" id="contact">
 		<h3>Contact <span>Us</span></h3>
@@ -865,14 +847,16 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 		<div class="container">
 			<div class="col-md-4 agileinfo_footer_grid">
 				<h4>About Us</h4>
-				<p>The Embedded Systems lab supports teaching and research in embedded systems and re-configurable hardware technology. <span>We are engaged in research on architecture, design, and tools for networked and embedded computing and communication systems.Our current interests include wireless sensor and image processing.</span></p>
+				<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
+					fugiat nulla pariatur. <span>Excepteur sint occaecat cupidatat non proident 
+					sunt in culpa qui officia deserunt mollit anim id est laborum.</span></p>
 			</div>
 			<div class="col-md-4 agileinfo_footer_grid mid-w3l nav2">
 				<h4>Options</h4>
 				<ul>
 					<li><a href="#home" class="scroll">Home</a></li>
 					<li><a href="#about" class="scroll">About Us</a></li>
-					<li><a href="#services" class="scroll">Resources</a></li>
+					<li><a href="#services" class="scroll">Services</a></li>
 					<li><a href="#gallery" class="scroll">Gallery</a></li>
 					<li><a href="#team" class="scroll">Team</a></li>
 					<li><a href="#events" class="scroll">Events</a></li>
@@ -882,15 +866,15 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 			<div class="col-md-4 agileinfo_footer_grid">
 				<h4>Address</h4>
 				<ul>
-					<li><span class="glyphicon glyphicon-home" aria-hidden="true"></span>EC307N, Electronics Engineering Department, SVNIT Surat, INDIA - 395007</li>
-					<li><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span><a href="mailto:embedded.svnit@gmail.com">embedded.svnit@gmail.com</a></li>
-					<li><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span> (+91) 261 2201757</li>
+					<li><span class="glyphicon glyphicon-home" aria-hidden="true"></span> 738 Diamond Road, New York City</li>
+					<li><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span><a href="mailto:info@example.com">info@example.com</a></li>
+					<li><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span> (0123) 0111 111 222</li>
 				</ul>
 			</div>
 			
 			<div class="clearfix"> </div>
 			<div class="w3agile_footer_copy">
-				<p>© 2020 Educational. All rights reserved | Design by <a href="http://w3layouts.com/">W3layouts.</a></p>
+				<p>© 2017 Educational. All rights reserved | Design by <a href="http://w3layouts.com/">W3layouts.</a></p>
 			</div>
 		</div>
 	</div>
